@@ -1,0 +1,8 @@
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/model/Conta.java
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/repository/ContaRepository.java
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/resource/HelloWorldResource.java
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/ContaCorrenteApplication.java
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/resource/ContaResourse.java
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/config/SwaggerConfig.java
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/service/ContaService.java
+/home/workshop/eclipse-workspace/conta-corrente/src/main/java/br/com/workshop/contacorrente/Enumeration/TipoContaEnum.java
