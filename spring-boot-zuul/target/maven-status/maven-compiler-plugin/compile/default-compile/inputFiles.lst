@@ -1,0 +1,7 @@
+/home/workshop/Workshop/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/SwaggerConfig.java
+/home/workshop/Workshop/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/App.java
+/home/workshop/Workshop/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/RibbonConfig.java
+/home/workshop/Workshop/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/helper/DefaultProfileHelper.java
+/home/workshop/Workshop/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/helper/Constants.java
+/home/workshop/Workshop/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/RestTemplateConfig.java
+/home/workshop/Workshop/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/SwaggerResourceConfig.java
